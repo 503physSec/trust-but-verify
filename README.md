@@ -12,3 +12,4 @@
   * Item 2b
 
 
+#Avoid Scams 
