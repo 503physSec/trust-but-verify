@@ -6,7 +6,7 @@
 
 ![trust](https://github.com/503physSec/trust-but-verify/blob/main/2camel.png)
 
-* Avoid Scams 
+* [Avoid Scams](https://github.com/503physSec/trust-but-verify/blob/main/README.md#avoid-scams)
 * Item 2
   * Item 2a
   * Item 2b
