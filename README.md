@@ -6,10 +6,10 @@
 
 ![trust](https://github.com/503physSec/trust-but-verify/blob/main/2camel.png)
 
-* Item 1
+* Avoid Scams 
 * Item 2
   * Item 2a
   * Item 2b
 
 
-#Avoid Scams 
+# Avoid Scams 
