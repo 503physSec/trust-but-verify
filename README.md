@@ -1,4 +1,4 @@
-# trust-but-verify - Security Suggestions for Humans 
+# Security Suggestions for Humans in 2021
 
 ## Hadith on Reliance
 
@@ -6,7 +6,10 @@
 
 ![trust](https://github.com/503physSec/trust-but-verify/blob/main/2camel.png)
 
-## Tl;dr Enable 'multi factor authentication' when possible. Be skeptical of everything you receive. Use a password manager. 
+### Tl;dr 
+Be skeptical of everything you receive via SMS, email, or voice.
+Enable 'multi factor authentication' when possible. 
+Use a password manager. 
 
 * [Avoid Scams](https://github.com/503physSec/trust-but-verify/blob/main/README.md#avoid-scams)
 * [Browsing Securely](https://github.com/503physSec/trust-but-verify/blob/main/README.md#browser-security)
