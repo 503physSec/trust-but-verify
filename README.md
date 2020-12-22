@@ -6,7 +6,7 @@
 
 ![trust](https://github.com/503physSec/trust-but-verify/blob/main/2camel.png)
 
-### Tl;dr 
+### Tl;dr (too long didn't read) please consider these 3 simple suggestions 
 Be skeptical of everything you receive via SMS, email, or voice.
 
 Enable 'multi factor authentication/2FA' when possible. 
