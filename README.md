@@ -26,11 +26,14 @@
 
 # Avoid Scams 
 
-### This might come in the form of an email, text message, or email. 
+### This might come in the form of an email, text message, or voice call/mail. You might receive a message regading a banking issue... or be botified you your computer is infected. Criminals (not hackers) use these methods to encourage humans to do stupid things... like click on a sketchy link in a state of panic. Take a deep breath... if you're convinced it's legit... Follow up with a contact method you know id legit.  
 
 # Browser Security
 
 ### Here are some simple browser add-ons/extensions that will help keep your browser sessions secure. 
+https everywhere by the EFF
+privacy badger by the EFF
+uBlock Origin 
 
 # Account Management & Security
 
