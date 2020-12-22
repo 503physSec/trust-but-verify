@@ -13,6 +13,8 @@
 
 *Use a password manager. Choose one that has a good reputation... Use complex passwords. Never use the same password. 
 
+# Now... lets go down the rabbit hole of keeping you secure 
+
 * [Avoid Scams](https://github.com/503physSec/trust-but-verify/blob/main/README.md#avoid-scams)
 * [Browsing Securely](https://github.com/503physSec/trust-but-verify/blob/main/README.md#browser-security)
 * [Account Management & Security](https://github.com/503physSec/trust-but-verify/blob/main/README.md#account-management--security)
