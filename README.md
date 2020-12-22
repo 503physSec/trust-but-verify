@@ -8,7 +8,9 @@
 
 ### Tl;dr 
 Be skeptical of everything you receive via SMS, email, or voice.
-Enable 'multi factor authentication' when possible. 
+
+Enable 'multi factor authentication/2FA' when possible. 
+
 Use a password manager. 
 
 * [Avoid Scams](https://github.com/503physSec/trust-but-verify/blob/main/README.md#avoid-scams)
